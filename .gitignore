@@ -1,0 +1,6 @@
+.idea
+.serverless
+*.db
+bin
+node_modules
+data
